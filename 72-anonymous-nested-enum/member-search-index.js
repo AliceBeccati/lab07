@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"it.unibo.nestedenum","c":"MonthSorter","l":"sortByDays()"},{"p":"it.unibo.nestedenum","c":"MonthSorter","l":"sortByOrder()"}];updateSearchResults();
